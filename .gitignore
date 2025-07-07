@@ -1,0 +1,8 @@
+checkpoints/
+midi_dataset/
+venv/
+*.pt
+*.pth
+*.mid
+__pycache__/
+.vscode/
